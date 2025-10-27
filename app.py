@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Calculadora de Costos")
+st.title("Calculadora de costos")
 
 # Inputs
 costo_materiales = st.number_input("Costo de materiales ($)", min_value=0)
